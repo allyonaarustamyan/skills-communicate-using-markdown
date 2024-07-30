@@ -1,6 +1,6 @@
-#մեծ վերնագիր
+# մեծ վերնագիր
 ## վերնագիր
-###small
-####so small
-####very small
-######sb
+### small
+#### so small
+#### very small
+###### sb
